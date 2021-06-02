@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex3\bin\Release\Ex3.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex3\bin\Release\Ex3.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex3\obj\Release\Ex3.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex3\obj\Release\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex3\obj\Release\Ex3.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex3\obj\Release\Ex3.pdb
