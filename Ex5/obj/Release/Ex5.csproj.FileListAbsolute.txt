@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex5\bin\Release\Ex5.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex5\bin\Release\Ex5.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex5\obj\Release\Ex5.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex5\obj\Release\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex5\obj\Release\Ex5.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Ex5\obj\Release\Ex5.pdb
