@@ -34,9 +34,9 @@ namespace SpringHeroBank.Controller
         public Account LoginController()
         {
             Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("\nVui lòng nhập vào Email hoặc mã số tài khoản");
+            Console.WriteLine("\nPlease enter email or card number:");
             var account = Console.ReadLine();
-            Console.WriteLine("\nNhập vào mật khẩu");
+            Console.WriteLine("\nEnter password");
             var password = Console.ReadLine();
             var accountIsLogin = _accountModel.Login(account, password);
             return accountIsLogin;

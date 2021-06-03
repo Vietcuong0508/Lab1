@@ -10,11 +10,11 @@ namespace Ex1
             Console.OutputEncoding = Encoding.UTF8;
             Information information = new Information();
             Console.WriteLine("Please enter your name:");
-            information.name = Console.ReadLine();
+            information.Name = Console.ReadLine();
             Console.WriteLine("Please enter your address:");
-            information.address = Console.ReadLine();
+            information.Address = Console.ReadLine();
             Console.WriteLine("Please enter your phone:");
-            information.phone = Console.ReadLine();
+            information.Phone = Console.ReadLine();
             information.ToString();
         }
     }
