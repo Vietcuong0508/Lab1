@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap4\bin\Release\Lap4.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap4\bin\Release\Lap4.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap4\obj\Release\Lap4.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap4\obj\Release\Lap4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap4\obj\Release\Lap4.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap4\obj\Release\Lap4.pdb

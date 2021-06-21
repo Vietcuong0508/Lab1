@@ -1,0 +1,17 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\HiTrader.exe.config
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\HiTrader.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\HiTrader.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\System.Web.Http.dll
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\System.Web.Http.xml
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\obj\Release\HiTrader.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\obj\Release\HiTrader.exe.config
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\obj\Release\HiTrader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\obj\Release\HiTrader.csproj.CopyComplete
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\obj\Release\HiTrader.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\HiTrader\obj\Release\HiTrader.pdb

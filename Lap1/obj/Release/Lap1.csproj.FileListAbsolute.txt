@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap1\bin\Release\Lap1.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap1\bin\Release\Lap1.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap1\obj\Release\Lap1.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap1\obj\Release\Lap1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap1\obj\Release\Lap1.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap1\obj\Release\Lap1.pdb
