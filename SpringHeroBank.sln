@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiTrader", "HiTrader\HiTrad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lap6", "Lap6\Lap6.csproj", "{F74B07F8-E95F-42F5-B68E-FC2FA773F73B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lap7", "Lap7\Lap7.csproj", "{D460CEF9-6388-405E-ABE2-C8FAFB0C4B08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{F74B07F8-E95F-42F5-B68E-FC2FA773F73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F74B07F8-E95F-42F5-B68E-FC2FA773F73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F74B07F8-E95F-42F5-B68E-FC2FA773F73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D460CEF9-6388-405E-ABE2-C8FAFB0C4B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D460CEF9-6388-405E-ABE2-C8FAFB0C4B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D460CEF9-6388-405E-ABE2-C8FAFB0C4B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D460CEF9-6388-405E-ABE2-C8FAFB0C4B08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

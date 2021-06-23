@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap7\bin\Release\Lap7.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap7\bin\Release\Lap7.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap7\obj\Release\Lap7.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap7\obj\Release\Lap7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap7\obj\Release\Lap7.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap7\obj\Release\Lap7.pdb
