@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\MiniEx\bin\Release\MiniEx.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\MiniEx\bin\Release\MiniEx.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\MiniEx\obj\Release\MiniEx.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\MiniEx\obj\Release\MiniEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\MiniEx\obj\Release\MiniEx.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\MiniEx\obj\Release\MiniEx.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap8\bin\Release\Lap8.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap8\bin\Release\Lap8.pdb
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap8\obj\Release\Lap8.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap8\obj\Release\Lap8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap8\obj\Release\Lap8.exe
+C:\Users\Admin\RiderProjects\SpringHeroBank\Lap8\obj\Release\Lap8.pdb
